@@ -1,0 +1,16 @@
+.titleHome {
+    color: white;
+    padding: 100px 300px 100px 200px;
+    width: 1000px;
+    text-align: center
+}
+
+.title {
+    font-size: 55px !important;
+    font-weight: 500;
+}
+
+.subtitle {
+    font-size: 30px !important;
+    font-weight: 100;
+}

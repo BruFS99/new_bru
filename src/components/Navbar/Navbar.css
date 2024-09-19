@@ -1,0 +1,25 @@
+.collapse.navbar-collapse {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+    padding: 20px 40px 20px 40px;
+    background-color: transparent !important;
+
+}
+
+.nav-link {
+    color: white !important;
+    font-size: 18px !important;
+    padding: 40px !important;
+}
+
+.nav-link:hover {
+    color: rgb(65, 68, 236) !important;
+}
+
+.navbar-brand {
+    color: white !important;
+    font-size: 30px !important;
+}
